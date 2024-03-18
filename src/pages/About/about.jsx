@@ -15,6 +15,8 @@ const About = () => {
     "GraphQL",
     "Webpack",
     "AWS",
+    "Python",
+    "Django"
   ];
   return (
     <div id="about">
@@ -32,15 +34,14 @@ const About = () => {
         </div>
         <div className="flex flex-col gap-4 w-1/2 sm:w-full my-10">
           <p className="text-white font-bold">
-            My name is Ashit, and I have worked on numerous projects as a
-            front-end React JS developer for more than three years as a MERN
+            My name is Soubhagya, and I have worked on numerous projects as a
+            front-end React JS developer for more than two years as a Frontend
             engineer.
           </p>
           <p className="text-white my-5 font-bold">
             Profound background in creating mobile applications and websites
-            utilizing HTML, CSS, Bootsrap, SASS, Material UI, Javascript, SEO,
-            React JS, React Native, Redux, Node js, Express js, Mongo DB, Graph
-            QL, Tailwind css, and Zustand.
+            utilizing HTML, CSS, Bootsrap, Material UI, Javascript, SEO,
+            React JS, React Native, Redux, Node js, Express js and MongoDB.
           </p>
         </div>
       </div>

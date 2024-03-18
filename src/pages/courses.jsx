@@ -35,13 +35,11 @@ const Courses = () => {
           <h1 className="text-secondary text-2xl">
             {course[selectedItemsIndex].title}
           </h1>
-          <h1 className="text-tertiary text-2xl">
+          <h1 className="text-tertiary text-lg">
             {course[selectedItemsIndex].description}
           </h1>
           <p className="text-white">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            porro natus commodi quas harum fuga quibusdam temporibus, neque
-            facilis incidunt?
+            
           </p>
         </div>
         <img src={course[selectedItemsIndex].image} alt="image" className="h-40 w-75" />

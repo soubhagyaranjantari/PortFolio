@@ -5,9 +5,9 @@ const Footer = () => {
     <div className='py-10'>
       <div className='h-[1px] w-full bg-[#4527A0]'></div>
       <div className="flex flex-col items-center justify-center mt-10">
-        <h1 className='text-white'>Designed and Developed By</h1>
+        <h1 className='text-white'>Designed and Developed By Soubhagya.</h1>
         <h1 className='text-white'>
-            <span>Ashit Kumar Kamila.</span>
+            <span>Soubhagya Ranjan Tarai</span>
         </h1>
       </div>
     </div>

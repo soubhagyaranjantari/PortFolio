@@ -3,12 +3,12 @@ import SectionTitle from "../components/SectionTitle";
 
 const Contact = () => {
   const userDetails = {
-    name: "Ashit Kumar Kamila",
-    age: null,
+    name: "Soubhagya Ranjan Tarai",
+    age: 26,
     gender: "Male",
-    email: "kamilashit@gmail.com",
-    mobile: "+91-8327786697",
-    currentLocation: "Bangalore",
+    email: "taraisoubhagyaranjan2@gmail.com",
+    mobile: "+91 - 7008004924",
+   " current-Location": "Bangalore",
     country: "India",
   };
   return (
