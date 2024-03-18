@@ -8,7 +8,7 @@ const Intro = () => {
       <div className="h-[80vh] bg-primary flex flex-col items-start justify-center gap-8">
         <h1 className="text-white text-3xl">Hello, I am</h1>
         <h1 className="text-secondary text-5xl sm:text-3xl font-semibold animated_text">
-          Soubhagya Ranjan Tarai
+          Soubhagya R. Tarai
         </h1>
         <h1 className="text-white text-5xl sm:text-3xl font-semibold">
           I build Web and Mobile applications.
